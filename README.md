@@ -28,7 +28,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 
-<h3 align="left">Stacks em contrução </h3>
+<h3 align="left">Stacks em construção </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
