@@ -12,7 +12,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Cruzeiro do Sul, curso TI do ZERO NA "EBAC". Estou em busca da minha primeira oportunidade, para adentrar o mercado e me fortalecer na minha carreira, tenho como objetivo FullStack.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Cruzeiro do Sul, cursando TI do ZERO NA "EBAC". Estou em busca da minha primeira oportunidade, para adentrar o mercado e me fortalecer na minha carreira, tenho como objetivo cybersecurity.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
  #
